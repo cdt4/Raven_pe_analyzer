@@ -1,0 +1,8 @@
+pefile>=2023.2.7
+capstone>=5.0.0
+colorama>=0.4.6
+ssdeep>=3.4
+PyQt5>=5.15.9
+matplotlib>=3.7.1
+numpy>=1.24.3,<2.3.0
+pycryptodome>=3.20.0
