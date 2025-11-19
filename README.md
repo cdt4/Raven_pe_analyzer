@@ -1,4 +1,4 @@
-# Raven EXE Deconstructor
+# Raven EXE Deconstructor v2
 ### Paranoid PE File Analysis Tool for Windows Executables
 
 ---
@@ -192,11 +192,15 @@ Expect it to be slow, Its made in python what do you expect
 I may update it in the future to use rust but thats a long way away
 
 
+## Updates
+v 2.0 split the 2 monolithic files into split up sub folders and ect
+v 1 release 
+
+
 # ⚠️ Disclaimer
 ### Raven detects potentially malicious techniques.
 ### It may flag legitimate software that uses sensitive operations.
 ### Always verify with multiple sources before acting.
 
+
 ### A suspicious rating means “investigate further,” not “definitely malicious.”
-
-
